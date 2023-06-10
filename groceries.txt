@@ -5,3 +5,7 @@
 - 2 wine bottles
 - 1 lemons
 
+
+
+1) per style font size different for red and black , should be same as in some languages it goes beyond 6 digits 
+2) buying choice button size is different in mobile views 
